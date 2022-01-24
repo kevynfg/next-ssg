@@ -1,0 +1,16 @@
+{
+    "characters": [
+        {
+            "id": "1",
+            "name": "Naruto"
+        },
+        {
+            "id": "2",
+            "name": "Sasuke"
+        },
+        {
+            "id": "3",
+            "name": "Sakura"
+        }
+    ]
+}
